@@ -1,0 +1,114 @@
+ 
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+ *  HTML content. To learn how to do something, just try searching Google for questions like
+ *  "how to change link color." */
+
+@import url('https://fonts.googleapis.com/css?family=Muli');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+body {
+	margin: 2%;
+	background-color: black;
+	color: oldlace;
+	font-family: "Special Elite", Courier;
+}
+
+p {
+	padding: 0 10% 0 5%;
+	line-height: 1.3em;
+}
+
+a {
+	color: wheat;
+}
+
+br {
+	line-height: 2em;
+}
+
+blockquote {
+	font-family:monospace;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+li {
+	margin: 2%;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+}
+
+/* top navigation */
+.topnav {
+/* 	background-color: #333; */
+	margin: 0;
+	padding: 0;
+	border-width: 0;
+	/*overflow: hidden;*/
+	display: block;
+	position: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+h2 {
+	font-family: Muli,"Century Gothic","Apple Gothic",AppleGothic,"URW Gothic L","Avant Garde",Futura,sans-serif;
+	font-style: bold;
+	margin-top: 3em;
+}
+
+.topnav li {
+	display: inline;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+	font-family: Muli,"Century Gothic","Apple Gothic",AppleGothic,"URW Gothic L","Avant Garde",Futura,sans-serif;
+	font-style: bold;
+	float: auto;
+	color: oldlace;
+	text-align: center;
+	display: inline-block;
+	padding: 0px 14px;
+	text-decoration: none;
+	font-size: 2em;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	background-color: oldlace;
+	color: black;
+	border-radius: 4%;
+}
+
+.center-fit {
+	width: auto;
+	max-width: 100%;
+	max-height: 60vh;
+	min-height: 40vh;
+	margin: auto;
+}
+
+.date {
+	font-size: 0.8em;
+	opacity: 0.5;
+}
+
+.socialmedia {
+	display: block;
+	text-align: center;
+}
+
+.socialmedia li {
+	display: inline-block;
+	opacity: 0.5;
+	border-radius: 10%;
+}
