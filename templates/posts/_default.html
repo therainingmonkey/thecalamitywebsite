@@ -1,10 +1,10 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="../style.css">
-<title> {{ return content.auto:match("#(.-)\n")  }} </title>
+<link rel="stylesheet" type="text/css" href="../static/style.css">
+<title> {{ return content.title }} - The Calamity </title>
 <body>
 
-<img src="../Signature-BlackOnTransparent-Light.png" alt="The Calamity" width=30%>
+<img src="../Signature-BlackOnTransparent-Light.png" alt="The Calamity signature" width=30%>
 
 <div class="topnav">
 <ul>
@@ -16,7 +16,7 @@
 </ul>
 </div>
 
-{{ return content.auto }}
+{{ return content.auto.text }}
 
 </body>
 </html>
