@@ -1,4 +1,4 @@
 #!/usr/bin/fish
 
-rsync -rv public/ calamari:/var/www/thecalamity.net; and
-neocities push public
+rsync -rv public/ calamari:/var/www/thecalamity.net;
+and neocities push public
