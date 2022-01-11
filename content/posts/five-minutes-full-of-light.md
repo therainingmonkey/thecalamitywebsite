@@ -1,0 +1,19 @@
+# Five Minutes Full of Light - A Punch of Jaunt
+
+Upon listening to the album, erstwhile guitarist Matt S wrote in to Calamity HQ. In a five star review, he described the album as 'very, very good' and 'a weird mix of incredibly dense morbidity and an almost uncomfortable punch of jaunt'.
+
+Five Minutes Full of Light probably falls into the 'punch of jaunt' category. 
+
+The song is the eldest and most venerable of the recordings on the album, which we made in the Autumn of 2018. THEY PLAYED IT ON THE RADIO. So it must be good...
+
+LISTEN TO IT:
+
+[https://itsacalamity.bandcamp.com/track/five-minutes-full-of-light-3](https://itsacalamity.bandcamp.com/track/five-minutes-full-of-light-3)
+
+Jaunty. 
+
+Thematically, the song plays around with the image of the post-industrial town ('empty tombs', 'the gloom of the pub'), while defying the prevailing narrative of misery. So, the 'flowers bloom in Lady Lazarus's hands' and 'the walls seem to breathe out sound and life'.
+
+(There is also a lyric about the nuclear deterrent which is so obscure that only I get it. Steph has often said that I hide my meanings too much in songs. I AM CRYPTIC.)
+
+Anyway, THE POINT IS: A place can often be what you make of it. Grass isn't always greener etc. etc.
